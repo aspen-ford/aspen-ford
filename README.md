@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Aspen Ford and I'm an investigative journalist using data to enhance national projects.
-      - See 
+- 👋 Hi, I’m Aspen Ford and I'm an investigative journalist at InvestigateWest using data to enhance my projects.
 - ⚡ I have experience in R, excel, OpenRefine.
 - 🌱 I’m currently learning data scraping. 
 - 😄 Pronouns: she/her
